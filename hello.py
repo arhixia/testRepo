@@ -1,1 +1,3 @@
-ptint('welcome!')
+print('welcome!')
+
+print('Add New Data')
